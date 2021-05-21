@@ -97,3 +97,4 @@ Let macOS install like it normally would and make sure to keep beside your lapto
 
 And that's it. Once your installation is complete set up your new MacBook as you like. Connect to your Wi-Fi and sign in to your Apple ID if you like as well. Then, scroll down to the next step where we make it so you can boot your XPS without the installer USB.
 
+## Guides for Situations 2-5 are coming soon. I've got a lot on my schedule :)
